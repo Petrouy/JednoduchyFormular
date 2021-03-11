@@ -1,0 +1,14 @@
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář.csprojAssemblyReference.cache
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\MainWindow.g.cs
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\App.g.cs
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář_MarkupCompile.cache
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář_MarkupCompile.lref
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\bin\Debug\Jednoduchý formulář.exe.config
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\bin\Debug\Jednoduchý formulář.exe
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\bin\Debug\Jednoduchý formulář.pdb
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\MainWindow.baml
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář.g.resources
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý_formulář.Properties.Resources.resources
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář.csproj.GenerateResource.cache
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář.exe
+C:\Users\petro\Desktop\Škola\+Švec PVA\Jednoduchý formulář\Jednoduchý formulář\obj\Debug\Jednoduchý formulář.pdb
